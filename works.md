@@ -6,19 +6,9 @@ header-img: "img/semantic.jpg"
 ---
 
 
+## 欢迎投喂
 <center>
-    <p><img src="" align="center"></p>
-</center>
-
-## 自愿付费
-
-有价值的事物，值得付出时间，也值得付出金钱。
-
-喜欢文章的人可自愿付费，当然也可以不付费。
-
-
-<center>
-    <p><img src="" align="center"></p>
+    <p><img src="https://img-blog.csdnimg.cn/a1562b0ecb3c4ccb9eefdd03f8d60f0e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAYW4wNTA2MDI=,size_20,color_FFFFFF,t_70,g_se,x_16" align="center"></p>
 </center>
 
 
