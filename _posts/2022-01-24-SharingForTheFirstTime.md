@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: 第一次分享-ECS战斗拆分思路（一）角色
@@ -30,6 +31,7 @@ description: 分享一下自己的想法，顺便与大家一同交流
 
 于是代码大概这样写
 
+```javascript
 创建一个Entity
 
 然后为Entity添加LifeCom，AttrCom，VoCom，PosCom
@@ -37,7 +39,7 @@ description: 分享一下自己的想法，顺便与大家一同交流
 移动System 关注 Entity的 VoCom和PosCom
 技能System 关注 Entity的 AttrCom，SkillCom，HurtCom
 AI System 关注 Entity的 AICom，AttrCom，PosCom，SkillCom
-
+```
 每个系统只关心关注的Component，其他一概不管，各司其职
 
 就做到了逻辑和数据完全分离
@@ -45,12 +47,3 @@ AI System 关注 Entity的 AICom，AttrCom，PosCom，SkillCom
 欢迎各位来我的个人博客观光，希望从今天起，持续输出一些自己脑子里有的东西，也希望各位不吝指教
 
 [啊安的个人博客](https://050602.github.io/)
-
-
-
-
-
-
-
-
-
