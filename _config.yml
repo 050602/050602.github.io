@@ -2,13 +2,13 @@
 title: 啊安的个人博客
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "啊安的个人博客"  
+description: "啊安"  
 baseurl: ""
 url: "http://050602/github.io"  
 
 # About/contact
 owner: 
-  name: "啊安"
+  name: "https://github.com/050602"
   email: 441829663@qq.com
   bio: "不如守中"
 
