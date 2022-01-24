@@ -1,6 +1,6 @@
 # Site settings
 title: 啊安的个人博客
-header-img: "img/Xacebook.jpg"
+header-img: "img/favicon.jpg"
 tagline: "cn"  
 description: "啊安的个人博客"  
 baseurl: ""
@@ -13,8 +13,8 @@ owner:
   bio: "不如守中"
 
 # Data
-gavatar: img/favicon1.ico
-favicon: img/favicon1.ico
+gavatar: img/favicon.ico
+favicon: img/favicon.ico
 
 github_username: 050602
 
