@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "works"
-description: "Try everything"
-header-img: "img/semantic.jpg"
+description: "Try Everything"
+header-img: "img/zhihu.jpg"
 ---
 
 

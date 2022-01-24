@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "多言数穷，不如守中"
-header-img: "img/green.jpg"
+header-img: "img/twitter.jpg"
 ---
 
 
