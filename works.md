@@ -1,17 +1,14 @@
 ---
 layout: page
 title: "works"
-description: "try everything"
+description: "Try everything"
 header-img: "img/semantic.jpg"
 ---
 
 
 <center>
-    <p><img src="https://ww2.sinaimg.cn/mw2000/89b764b4gw1dxwxeycxdtj.jpg" align="center"></p>
+    <p><img src="" align="center"></p>
 </center>
-
-## 笨方法学写作 课程
-
 
 ## 自愿付费
 

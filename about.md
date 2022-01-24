@@ -8,7 +8,7 @@ header-img: "img/green.jpg"
 
 ## 啊安
 
-现居广东[广州]​
+现居广东-广州
 
 - **游戏创造者：
 - **从08年开始，进行魔兽地图创作
@@ -24,7 +24,7 @@ header-img: "img/green.jpg"
 ## 联系
 
 
-- 邮箱：441829663[@gmail.com ](/qq.com )
+- 邮箱：441829663[@qq.com ](/qq.com )
 - 微信：an050602
 
 
