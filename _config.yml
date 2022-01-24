@@ -1,27 +1,22 @@
 # Site settings
-title: 笨方法学写作
+title: 啊安的个人博客
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "笨方法学写作|这一次彻底学会写作"  
+description: "啊安的个人博客"  
 baseurl: ""
 url: "http://www.cnfeat.com"  
 
 # About/contact
 owner: 
-  name: "陈素封"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: "啊安"
+  email: 441829663@qq.com
+  bio: "不如守中"
 
 # Data
 gavatar: img/favicon1.ico
 favicon: img/favicon1.ico
 
-douban_username: cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+github_username: 050602
 
 # Build settings  
 # use Github Flavored Markdown !important  
